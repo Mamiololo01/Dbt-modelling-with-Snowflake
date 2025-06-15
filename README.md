@@ -17,7 +17,7 @@ This project involves:
 
 The architecture for this project follows Medallion Architecture **raw**, **Staging**, **Dev**, and **Prod** layers:
 
-
+![Data Architecture](images/dbt_snowflake.png)
 
 
 ## Resources
