@@ -17,7 +17,7 @@ This project involves:
 
 The architecture for this project follows Medallion Architecture **raw**, **Staging**, **Dev**, and **Prod** layers:
 
-![Data Architecture](images/dbt_snowflake.png)
+![Data Architecture](images/technical_diagram%20(1).png)
 
 
 ## Resources
@@ -34,10 +34,11 @@ The architecture for this project follows Medallion Architecture **raw**, **Stag
 
 ## DBT Documentation
 
-Here, dbt can provide overall view of data model and lineage using the following
+Here, dbt can provide overall view of data model and lineage using the following commands:
 
-dbt docs generate
-dbt docs serve
+- dbt docs generate
+- dbt docs serve
+
 
 ![Data Lineage](images/data_lineage.png)
 
