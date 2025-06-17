@@ -32,4 +32,16 @@ The architecture for this project follows Medallion Architecture **raw**, **Stag
 9. **Dbt Documentation**: https://docs.getdbt.com/docs/build/view-documentation
 
 
-## Workflow
+## DBT Documentation
+
+Here, dbt can provide overall view of data model and lineage using the following
+
+dbt docs generate
+dbt docs serve
+
+![Data Lineage](images/data_lineage.png)
+
+
+
+
+![Model view](images/dbt_documentation.png)
