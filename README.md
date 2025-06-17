@@ -22,7 +22,7 @@ The architecture for this project follows Medallion Architecture **raw**, **Stag
 
 ## Resources
 1. **Free Snowflake Account**: https://signup.snowflake.com/
-2. **Create S3 bucket**: https://aws.amazon.com/s3/
+2. **S3 bucket & IAM Role**: https://aws.amazon.com/s3/
 3. **Dbt models**: https://docs.getdbt.com/docs/build/models
 4. **Dbt Materializations**: https://docs.getdbt.com/docs/build/materializations
 5. **Dbt Seeds**: https://docs.getdbt.com/docs/build/seeds
@@ -30,6 +30,7 @@ The architecture for this project follows Medallion Architecture **raw**, **Stag
 7. **Dbt Sources**: https://docs.getdbt.com/docs/build/sources
 8. **Dbt snapshot**: https://docs.getdbt.com/docs/build/snapshots
 9. **Dbt Documentation**: https://docs.getdbt.com/docs/build/view-documentation
+10. **Dbt Test**: https://docs.getdbt.com/docs/build/data-tests
 
 
 ## DBT Documentation
